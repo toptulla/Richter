@@ -1,0 +1,6 @@
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.008_Methods\bin\Debug\RichterBook.008_Methods.exe.config
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.008_Methods\bin\Debug\RichterBook.008_Methods.exe
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.008_Methods\bin\Debug\RichterBook.008_Methods.pdb
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.008_Methods\obj\Debug\RichterBook.008_Methods.exe
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.008_Methods\obj\Debug\RichterBook.008_Methods.pdb
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.008_Methods\obj\Debug\RichterBook.008_Methods.csprojResolveAssemblyReference.cache

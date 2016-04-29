@@ -1,0 +1,10 @@
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.004_TypeFundamentals\bin\Debug\RichterBook.004_TypeFundamentals.exe.config
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.004_TypeFundamentals\bin\Debug\RichterBook.004_TypeFundamentals.exe.manifest
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.004_TypeFundamentals\bin\Debug\RichterBook.004_TypeFundamentals.application
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.004_TypeFundamentals\bin\Debug\RichterBook.004_TypeFundamentals.exe
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.004_TypeFundamentals\bin\Debug\RichterBook.004_TypeFundamentals.pdb
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.004_TypeFundamentals\obj\Debug\RichterBook.004_TypeFundamentals.csprojResolveAssemblyReference.cache
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.004_TypeFundamentals\obj\Debug\RichterBook.004_TypeFundamentals.exe.manifest
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.004_TypeFundamentals\obj\Debug\RichterBook.004_TypeFundamentals.application
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.004_TypeFundamentals\obj\Debug\RichterBook.004_TypeFundamentals.exe
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.004_TypeFundamentals\obj\Debug\RichterBook.004_TypeFundamentals.pdb

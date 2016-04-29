@@ -1,0 +1,6 @@
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.016_Arrays\bin\Debug\RichterBook.016_Arrays.exe.config
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.016_Arrays\bin\Debug\RichterBook.016_Arrays.exe
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.016_Arrays\bin\Debug\RichterBook.016_Arrays.pdb
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.016_Arrays\obj\Debug\RichterBook.016_Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.016_Arrays\obj\Debug\RichterBook.016_Arrays.exe
+C:\Users\Tsay.Aleksey\Source\Repos\Richter\RichterBook\RichterBook.016_Arrays\obj\Debug\RichterBook.016_Arrays.pdb
